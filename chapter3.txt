@@ -1,3 +1,7 @@
 Hello Chapter 3 we are here
+<<<<<<< HEAD
 
 Testing new personas in the story
+=======
+Changes while on Alien Plot Branch
+>>>>>>> alien-plot
